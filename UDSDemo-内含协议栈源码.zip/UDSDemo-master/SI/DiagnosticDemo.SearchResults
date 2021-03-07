@@ -1,0 +1,5 @@
+---- CommCallBack Matches (4 in 2 files) ----
+Diagnostic.c (e:\课题\udsdemo-master\diagnostic):static CommCallBack commCallBack;
+Diagnostic.c (e:\课题\udsdemo-master\diagnostic):void InitSetCommControlParam(bool supportSubFun00, bool supportSubFun01 , bool supportSubFun02 , bool supportSubFun03 , bool supportType01, bool supportType02, bool supportType03, CommCallBack callback, bool supressPosResponse)
+Diagnostic.h (e:\课题\udsdemo-master\diagnostic):typedef void (*CommCallBack)(CommulicationType , communicationParam);
+Diagnostic.h (e:\课题\udsdemo-master\diagnostic):void InitSetCommControlParam(bool supportSubFun00, bool supportSubFun01 , bool supportSubFun02 , bool supportSubFun03 , bool supportType01, bool supportType02, bool supportType03, CommCallBack callback, bool supressPosResponse);
